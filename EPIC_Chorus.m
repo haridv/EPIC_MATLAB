@@ -108,7 +108,7 @@ beta = 0.3;
 %%%
 
 
-% sigma= 2*5.1886e-13; %%% Parabolic B-field curvature —> artificailly high
+% sigma= 2*5.1886e-13; %%% Parabolic B-field curvature â€”> artificailly high
 % L=4.9; %%% L_shell
 % Re = 6370000; %%% Earth radius
 % hm=3.5*Re;
